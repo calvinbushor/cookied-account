@@ -1,0 +1,22 @@
+{
+  "name": "cookied-account",
+  "description": "Find an account in your mongo db by a cookie on the clients machine.",
+  "version": "0.0.1",
+  "author": {
+    "name": "Calvin Bushor",
+    "email": "calvinbushor@gmail.com"
+  },
+  "main": "index",
+  "dependencies": {
+    "mongodb": "*"
+  },
+  "engines": {
+    "node": ">= 0.8.x"
+  },
+  "licenses": [
+    {
+      "type": "MIT"
+    }
+  ],
+  "readme": "ERROR: No README.md file found!"
+}
